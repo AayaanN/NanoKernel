@@ -1,0 +1,13 @@
+../Core/Src/k_task.c:42:6:f_test_task	16	static
+../Core/Src/k_task.c:47:6:f_print_fail	16	static
+../Core/Src/k_task.c:52:5:init_thread_stack	40	static
+../Core/Src/k_task.c:100:6:osKernelInit	4	static
+../Core/Src/k_task.c:116:5:osCreateTask	24	static
+../Core/Src/k_task.c:160:5:osKernelStart	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:175:6:osYield	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:186:5:osTaskInfo	24	static
+../Core/Src/k_task.c:213:8:osGetTID	4	static
+../Core/Src/k_task.c:223:5:is_empty	16	static
+../Core/Src/k_task.c:232:6:scheduler	24	static,ignoring_inline_asm
+../Core/Src/k_task.c:253:5:osTaskExit	4	static,ignoring_inline_asm
+../Core/Src/k_task.c:275:6:SVC_Handler_Main	24	static,ignoring_inline_asm
